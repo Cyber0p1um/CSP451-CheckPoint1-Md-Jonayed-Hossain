@@ -19,7 +19,7 @@ Check the browser DevTools console to see the message from script.js.
 Visit about.html to view additional project details.
 
 ## Repository Structure
-
+```
 .
 ├── .gitignore
 ├── README.md
@@ -27,7 +27,7 @@ Visit about.html to view additional project details.
 ├── style.css
 ├── script.js
 └── about.html
-
+```
 ## Contributing
 
 Fork this repository.
@@ -35,7 +35,7 @@ Create a feature branch: git checkout -b feature/your-feature-name.
 Commit your changes with meaningful messages.
 Open a Pull Request (PR) to propose changes.
 
-## **License*
+## License
 
 This project is for educational purposes only as part of CSP451 coursework.
 
