@@ -9,9 +9,9 @@ It demonstrates practical use of *Git and GitHub* including repository setup, br
 ## Installation
 No build or installation is required.  
 Simply clone the repository:
-
+```
 git clone https://github.com/Cyber0p1um/CSP451-CheckPoint1-Md-Jonayed-Hossain.git
-
+```
 ## Usage
 
 Open index.html in a browser to view the sample page.
